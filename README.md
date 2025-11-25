@@ -2,7 +2,7 @@
 
 
 
-# Currency Converter (INR ↔️ 15 Foreign Currencies)
+# Currency Converter (INR 15 Foreign Currencies)
 
 An interactive Python-based **currency converter** that allows users to convert between **Indian Rupees (INR)** and **15 major foreign currencies**.
 Uses only **built-in Python** and **NumPy**.
