@@ -2,14 +2,14 @@
 
 
 
-# 🌍 Currency Converter (INR ↔️ 15 Foreign Currencies)
+# Currency Converter (INR ↔️ 15 Foreign Currencies)
 
 An interactive Python-based **currency converter** that allows users to convert between **Indian Rupees (INR)** and **15 major foreign currencies**.
 Uses only **built-in Python** and **NumPy**.
 
 
 
-## 📌 Supported Currencies
+##  Supported Currencies
 
 * **USD** – US Dollar
 * **EUR** – Euro
@@ -29,7 +29,7 @@ Uses only **built-in Python** and **NumPy**.
 
 
 
-## ⚙️ Features
+##  Features
 
 ✔ Convert **INR → Foreign Currency**
 ✔ Convert **Foreign Currency → INR**
@@ -41,7 +41,7 @@ Uses only **built-in Python** and **NumPy**.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The program uses a predefined dictionary:
 
@@ -68,7 +68,7 @@ Where each value represents:
 NumPy is used for simple but efficient arithmetic operations.
 
 
-## ▶️ Running the Program
+##  Running the Program
 
 ### **Step 1 — Install NumPy**
 
@@ -81,7 +81,7 @@ python currency_converter.py
 ```
 
 
-## 📝 Code Overview
+##  Code Overview
 
 ### **Main Functions**
 
@@ -100,10 +100,10 @@ def foreign_to_inr(amount_foreign, currency):
 * View results instantly
 
 
-## 📤 Sample Output
+## Sample Output
 
 ```
-------------- Currency Converter (INR ↔️ Foreign) -------------
+------------- Currency Converter (INR  Foreign) -------------
 Available currencies:
 USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, NZD, SGD, HKD, KRW, THB, MYR, RUB
 
@@ -121,7 +121,7 @@ Convert to (e.g., USD, EUR, GBP): USD
 
 ---
 
-## 🧾 Future Enhancements
+## Future Enhancements
 
 * Live exchange rate API integration
 * GUI version using Tkinter or PyQt
@@ -130,7 +130,7 @@ Convert to (e.g., USD, EUR, GBP): USD
 * Export results to PDF or Excel
 
 
-## 📚 Educational Value
+## Educational Value
 
 This program is useful for:
 
